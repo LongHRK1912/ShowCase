@@ -1,6 +1,8 @@
 # 🚀 My Projects
 
-# 🎵 TuneDetect - Song Recognition by Sound 🎵
+---
+
+## 🎵 TuneDetect – Song Recognition by Sound
 
 <p align="center">
   <img src="https://play-lh.googleusercontent.com/1ZTlS2TsoM0Hz6Nw-SAMPLE-ICON" alt="TuneDetect Logo" width="120"/>
@@ -12,41 +14,30 @@
   </a>
 </p>
 
----
-
-## 📖 About
-
-**TuneDetect** helps you identify any song playing around you in seconds.  
-Whether it’s on the radio, in a café, or during a party – just tap, listen, and discover.
+### 📖 About
+**TuneDetect** helps you identify any song playing around you within seconds.  
+Whether it’s on the radio, in a café, or at a party – just tap, listen, and discover instantly.
 
 ---
 
-## 🔎 How it works
-1️⃣ Open the app and tap **Start**.  
-2️⃣ Record a short audio snippet from your surroundings.  
-3️⃣ TuneDetect identifies the track and gives you detailed info from **Spotify, YouTube, Apple Music**, and more.
+### 🔎 How It Works
+1. Open the app and tap **Start**
+2. Record a short audio snippet from your surroundings
+3. Get instant results with detailed track information from **Spotify, YouTube, Apple Music**, and more
 
 ---
 
-## ✨ Key Features
-- ✅ **Fast & accurate** song recognition by sound
-- ✅ Get **detailed track info**: title, artist, album
-- ✅ Preview songs and open directly on **Spotify, YouTube, Apple Music**
-- ✅ Save your **search history** – never lose a track again
-- ✅ **Clean and modern UI** for quick discovery
+### ✨ Key Features
+- 🎶 **Fast & accurate** song recognition
+- ℹ️ Detailed track info: title, artist, album
+- 🔗 Direct links to **Spotify, YouTube, Apple Music**
+- 📜 Save and manage your search history
+- 🖥 Clean and modern UI
 
 ---
 
-## 🎧 Why TuneDetect?
-- ⏱ Recognize songs **in seconds**
-- 🌍 Discover **new music effortlessly**
-- 💾 Keep your favorite tracks saved in history
-- 🔗 Works seamlessly with popular music platforms
-
----
-
-## 📲 Download Now
-👉 [**TuneDetect on Google Play**](https://play.google.com/store/apps/details?id=hrk.studio.tunedetect)
+### 📲 Download
+👉 [**Get TuneDetect on Google Play**](https://play.google.com/store/apps/details?id=hrk.studio.tunedetect)
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=hrk.studio.tunedetect">
@@ -56,163 +47,132 @@ Whether it’s on the radio, in a café, or during a party – just tap, listen,
 
 ---
 
-## 🛠 Tech Stack
-- **Kotlin** + **Jetpack Compose** for modern Android UI
-- **Spotify API, YouTube API, Apple Music API** for track data
-- **Material Design 3** for sleek interface
+### 🛠 Tech Stack
+- **Android**: Kotlin + Jetpack Compose
+- **APIs**: Spotify API, YouTube API, Apple Music API
+- **Design**: Material Design 3
 
 ---
 
-## 📄 License
+### 📄 License
 © 2025 HRK Studio. All rights reserved.
 
-# 🌿 WellnessCoach - Your Personal AI Wellness Coach
+---
+
+## 🌿 WellnessCoach – Your Personal AI Wellness Companion
 
 <p align="center">
   <img src="https://via.placeholder.com/120x120.png?text=Logo" alt="WellnessCoach Logo" width="120"/>
 </p>
 
----
-
-## 📖 About
-
-**WellnessCoach** is your personal **AI-powered wellness companion** designed to help you:  
-✨ Improve mental health  
+### 📖 About
+**WellnessCoach** is an **AI-powered wellness companion** designed to help you:  
 ✨ Reduce stress  
-✨ Sleep better  
-✨ Build positive daily habits
+✨ Improve sleep  
+✨ Build positive daily habits  
+✨ Enhance mindfulness
 
-With guided meditation, breathing exercises, and an easy mood tracker, you can take care of your mind and body in just **5–10 minutes a day**.
-
----
-
-## 🌟 Key Features
-
-### 🧘 Personalized Onboarding
-- Choose your goals: stress relief, better sleep, or habit building.
-- Get **AI-powered recommendations** tailored to your wellness journey.
-
-### 📊 Daily Dashboard
-- Track mood and daily habits.
-- Get instant AI wellness tips to stay mindful throughout the day.
-
-### 😀 Mood Tracker
-- Log emotions with emojis and notes.
-- See simple charts & receive AI suggestions for mindfulness, meditation, or breathing.
-
-### 🤖 AI Chatbot
-- A friendly AI coach available 24/7.
-- Chat about your mood, habits, or wellness goals.
-
-### 🌬️ Breathing & Meditation
-- Guided breathing techniques & meditation sessions.
-- Calming visuals, audio, and optional **AR mode** for deeper relaxation.
-
-### 📈 Reports & Insights
-- View progress charts for mood, sleep, and habits.
-- Understand your patterns and improve your mindfulness routine.
-
-### 🏆 Gamification & Motivation
-- Earn badges, rewards, and streaks.
-- Stay motivated with challenges.
-
-### 🔔 Notifications & Reminders
-- Gentle reminders for meditation, breathing, and sleep routines.
-
-### ⚙️ Settings & Profile
-- Manage goals, notifications, and subscription.
+With guided meditation, breathing exercises, and a simple mood tracker, you can improve your well-being in just **5–10 minutes a day**.
 
 ---
 
-## 🌙 Why WellnessCoach?
-
-- Reduce stress & anxiety with guided practices.
-- Sleep better with AI wellness tips.
-- Track your emotions & habits easily.
-- Build daily mindfulness routines.
-- Practice self-care anytime, anywhere.
-- Friendly AI coach to support mental health.
-
----
-
-## 🔒 Privacy & Security
-- Your data is securely stored with cloud sync.
-- No selling of personal data.
-- Full control over account & permissions.
+### 🌟 Key Features
+- 🧘 **Personalized onboarding** with AI-driven recommendations
+- 📊 **Daily dashboard** for moods, habits, and insights
+- 😀 **Mood tracker** with simple charts and reflections
+- 🤖 **AI chatbot** available 24/7 for wellness support
+- 🌬 **Breathing & meditation** guides with calming visuals and audio
+- 📈 **Reports & insights** for progress tracking
+- 🏆 **Gamification** with badges, streaks, and challenges
+- 🔔 **Reminders & notifications** for consistency
 
 ---
 
-## 🚀 Roadmap
-- ✅ Core features: mood tracker, breathing, meditation, AI chatbot
+### 🌙 Why WellnessCoach?
+- Reduce stress & anxiety
+- Sleep better with tailored wellness routines
+- Build long-lasting mindfulness habits
+- Practice self-care anytime, anywhere
+- Supported by a **friendly AI coach**
+
+---
+
+### 🔒 Privacy & Security
+- 🔐 Data is securely stored with cloud sync
+- ❌ No selling of personal data
+- ✅ Full user control over account & permissions
+
+---
+
+### 🚀 Roadmap
+- ✅ Core features: mood tracker, meditation, AI chatbot
 - ⏳ Cloud sync & personalization
 - ⏳ AR meditation mode
 - ⏳ Google Play release
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 - **Android**: Kotlin + Jetpack Compose
-- **AI**: LLM-powered chatbot + personalized recommendations
-- **Cloud**: Firebase / Supabase for sync & storage
+- **AI**: LLM-powered chatbot + smart recommendations
+- **Cloud**: Firebase / Supabase
 - **Charts**: Compose-based visualization
 
 ---
 
-## 📌 Status
-🚧 Currently in development – not yet available on Google Play.
+### 📌 Status
+🚧 Currently under development – not yet available on Google Play.
 
 Stay tuned for updates! ⭐
 
 ---
 
-## 📄 License
+### 📄 License
 © 2025 WellnessCoach Team. All rights reserved.
 
+---
 
-# 📢 AdMobLib – Android AdMob Integration Library
+## 📢 AdMobLib – Android AdMob Integration Library
 
-AdMobLib is a lightweight Android library that makes it easy to integrate Google AdMob ads into your apps. With support for **AppOpen, Banner, Interstitial, and Rewarded Ads**, this library helps you monetize your app quickly and efficiently.
+AdMobLib is a lightweight Android library that simplifies **Google AdMob integration**.  
+It supports **AppOpen, Banner, Interstitial, and Rewarded Ads**, allowing you to monetize your apps quickly and effectively.
 
 ---
 
-## ✨ Key Features
-
-- ✅ Simple integration with minimal setup
+### ✨ Key Features
+- ✅ Easy integration with minimal setup
 - ✅ Support for all major ad formats:
-    - **AppOpen Ads** – show ads when the app launches
-    - **Banner Ads** – lightweight ads inside your layouts
-    - **Interstitial Ads** – full-screen ads between user flows
-    - **Rewarded Ads** – ads that reward users for engagement
-- ✅ Works with Koin DI for easy dependency injection
+    - **AppOpen Ads** – shown on app launch
+    - **Banner Ads** – lightweight inline ads
+    - **Interstitial Ads** – full-screen ads between flows
+    - **Rewarded Ads** – ads that reward user engagement
+- ✅ Works seamlessly with **Koin DI**
 - ✅ Packaged as an **AAR library** for reuse across projects
-- ✅ Clean and lightweight API design
+- ✅ Clean and lightweight API
 
 ---
 
-## 🎯 Why AdMobLib?
-
-- Save development time with a ready-to-use AdMob setup.
-- Keep your codebase clean with a centralized ad manager.
-- Monetize your apps with multiple ad formats.
-- Easily reusable across different Android projects.
-
----
-
-## 🚀 Getting Started
-
-1️⃣ Add the library dependency via Maven/JitPack.  
-2️⃣ Initialize the ads in your `Application` class.  
-3️⃣ Start showing ads with just a few lines of code.
+### 🎯 Why AdMobLib?
+- Save development time with pre-built ad integration
+- Centralized ad manager for cleaner code
+- Reusable across multiple Android projects
+- Monetize with multiple ad formats easily
 
 ---
 
-## 🔒 Privacy & Policy
+### 🚀 Getting Started
+1. Add the dependency via **Maven/JitPack**
+2. Initialize the library in your `Application` class
+3. Show ads with just a few lines of code
 
-AdMobLib uses **Google Mobile Ads SDK**. Please ensure compliance with:
+---
+
+### 🔒 Privacy & Policy
+AdMobLib uses the **Google Mobile Ads SDK**. Please ensure compliance with:
 - [AdMob Policies](https://support.google.com/admob/answer/6128543)
 - [Google Play Ads Guidelines](https://support.google.com/googleplay/android-developer/answer/9857753)
 
 ---
 
-## 📌 License  
-
+### 📌 License
+© 2025 HRK Studio. All rights reserved.  
