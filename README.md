@@ -55,7 +55,7 @@ Whether it’s on the radio, in a café, or at a party – just tap, listen, and
 ---
 
 ### 📄 License
-© 2025 HRK Studio. All rights reserved.
+© 2025 **LongHRK (HRK Studio on Google Console)**. All rights reserved.
 
 ---
 
@@ -128,7 +128,7 @@ Stay tuned for updates! ⭐
 ---
 
 ### 📄 License
-© 2025 WellnessCoach Team. All rights reserved.
+© 2025 **LongHRK (HRK Studio on Google Console)**. All rights reserved.
 
 ---
 
@@ -175,4 +175,4 @@ AdMobLib uses the **Google Mobile Ads SDK**. Please ensure compliance with:
 ---
 
 ### 📌 License
-© 2025 HRK Studio. All rights reserved.  
+© 2025 **LongHRK (HRK Studio on Google Console)**. All rights reserved.  
