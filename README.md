@@ -9,48 +9,40 @@
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=hrk.studio.tunedetect">
+  <a href="https://play.google.com/store/apps/details?id=com.hrk.chatwithmyself">
     <img src="https://img.shields.io/badge/Download-Google_Play-green?style=for-the-badge&logo=googleplay"/>
   </a>
 </p>
 
 ### About
-**Chat With Myself** is a private, emotional time-capsule journaling app.  
-You write a message today → choose to receive it back after 1, 3, 7, or 30 days → on that day, it returns as if your “Past You” just sent it.
+**Chat With Myself** is a deeply personal time-capsule journaling app.  
+You send a message to yourself today → choose 1, 3, 7 or 30 days → on that exact day, it comes back as if “Past You” just texted you.
 
-It’s not just a diary — it’s a real conversation with yourself across time.
-
----
-
-### How It Works
-1. Write anything to yourself right now
-2. Pick a delay: 1 day • 3 days • 7 days • 30 days
-3. When the time comes → notification + message from “Past You”
-4. Read, feel, reply — keep the dialogue with yourself alive
+It’s not just a diary. It’s a real, emotional conversation with yourself across time.
 
 ---
 
 ### Key Features
-- Real chat UI (You on the right ↔ Past You on the left)
-- Beautiful fade-in animation + gentle memory sound when past messages arrive
-- Precise scheduled notifications (WorkManager)
+- Real chat interface (You on the right ↔ Past You on the left)
+- Delayed messages with beautiful fade-in animation + gentle memory sound
+- Precise scheduled notifications via WorkManager
 - Full privacy: optional PIN / Fingerprint / Face ID lock
 - End-to-end encryption (SQLCipher + AES-256 when lock enabled)
-- Timeline view with calendar & future mood icons
+- Timeline with calendar view & mood icons (coming soon)
 - Daily reflection prompts (“What are you grateful for today?”)
 - Light / Dark / Calm pastel themes
-- 100% local-first — no account, no cloud unless you want it
+- 100% local-first — no account required, data stays on device
 - Backup: Export JSON or optional Firebase sync
-- Home-screen widget (coming soon)
+- Home-screen widget (in development)
 
 ---
 
 ### Upcoming Features
-- “Future AI Self” – AI answers as your wiser future version
-- Voice Diary – record voice notes
+- “Future AI Self” – AI responds as your wiser future self
+- Voice Diary – record voice notes instead of typing
 - Memory Timeline – auto-generated monthly emotional recap videos
 - Mood Analytics with ML Kit
-- Secret Mode – disguise the app as a fake launcher
+- Secret Mode – disguise the app behind a fake launcher
 
 ---
 
@@ -63,12 +55,12 @@ It’s not just a diary — it’s a real conversation with yourself across time
 ---
 
 ### Download
-Coming soon to Google Play!  
-Temporary link (will be updated on release):  
-[Get on Google Play](https://play.google.com/store/apps/details?id=hrk.studio.tunedetect)
+Now available on Google Play!
+
+[Get Chat With Myself on Google Play](https://play.google.com/store/apps/details?id=com.hrk.chatwithmyself)
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=hrk.studio.tunedetect">
+  <a href="https://play.google.com/store/apps/details?id=com.hrk.chatwithmyself">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200"/>
   </a>
 </p>
@@ -88,7 +80,7 @@ Temporary link (will be updated on release):
 </p>
 
 ### About
-**TuneDetect** instantly identifies any song playing around you — radio, café, party, anywhere.
+**TuneDetect** instantly recognizes any song playing around you — café, party, radio, anywhere.
 
 ### Key Features
 - Lightning-fast & accurate recognition
@@ -110,8 +102,8 @@ Temporary link (will be updated on release):
 ## AdMobLib – Lightweight Android AdMob Library
 
 Simple, reusable AAR library for **AppOpen, Banner, Interstitial & Rewarded** ads.  
-One-line setup, Koin-ready, clean API.
+One-line setup, Koin-ready, clean & minimal API.
 
 ---
 
-**© 2025 LongHRK (HRK Studio)** – Built with ❤️ in Vietnam
+**© 2025 LongHRK (HRK Studio)** – Built with love in Vietnam
